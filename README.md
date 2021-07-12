@@ -1,6 +1,5 @@
 # Basic-Deep-learning-model-for-Regression-and-classification
 
-
 1 -  Classication Problem
 For classification 'crime-classification.ipynb' notebook has been created
 I used San Francisco Crime Classification dataset - https://www.kaggle.com/c/sf-crime/data 
